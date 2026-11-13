@@ -1,0 +1,6 @@
+{
+  "name": "Serasa Salam Sheets Studio",
+  "description": "Aplikasi manajemen data dan analitik yang terintegrasi langsung dengan Google Sheets yang sudah ada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
